@@ -1,5 +1,5 @@
 # macaulay-plotter-py
-A Python program that plots the shear force graph and the bending moment of an equation given in Macaulay's notation. This script uses the amazing `sympy` library, a library for symbolic mathematics and physics.
+A Python program that plots the shear force graph and the bending moment of an equation given in Macaulay's notation. This script uses the `sympy` library, a library for symbolic mathematics and physics.
 
 ## Prerequsuites 
 Requires `sympy`, which can be installed with `pip install sympy`.
